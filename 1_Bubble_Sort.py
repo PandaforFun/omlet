@@ -9,4 +9,4 @@ def bubble_sort(arr):
 
 arr = [6,1,3,4,2,5]
 
-bubble_sort(arr.copy())
+bubble_sort(arr)
